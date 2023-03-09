@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(209, 202, 168);
+    font-family:'Roboto', sans-serif;
+    color:black;
+    text-align: center;
+}
+#container{
+    width: 80%;
+    margin:0px auto;
+    border: 2px solid black;
+    background-color: rgb(209, 202, 168);
+}
+
+header{
+    height: 30 px;
+    line-height: 30px;
+    text-align: center;
+    display: flex;
+    background-color: black;
+    color:white;   
+    font-size: 25px;   
+}
+
+nav{
+   background-color:blueviolet;
+   height: 70px;
+   border-bottom: 2px solid black;
+  }
+
+
+nav ul li{
+    float:left;
+    list-style:none;
+    margin:10px;
+    text-align:center;
+    font-size: 15px;
+    background-color:beige;
+    padding: 8px;
+    color: black;
+    border: 2px solid black;   
+}
+
+#content{
+    text-align: center;
+    height: 300px;
+    padding: 50px;
+}
+
+
+#experienciaLaboral{
+    text-align: center;
+    height: 300px;
+    padding: 50px;
+}
+footer{
+    background-color: black;
+    font-size: 10px;
+    color: white;
+    text-align: right;
+}
+
+.formulario {
+    text-align: center;
+}
+
+.formulario ul{
+    text-align:center;
+    list-style: none; 
+}
+
